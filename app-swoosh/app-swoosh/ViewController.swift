@@ -14,14 +14,10 @@ class ViewController: UIViewController {
     @IBOutlet weak var bgimg: UIImageView!
     
     override func viewDidLoad() {
-        super.viewDidLoad()
-        print("This is a way better message of course!")
-        
-        func hairyStuff() {
-            print("Hairy armpits")
+      
         }
 
   }
 
-}
+
 
