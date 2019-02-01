@@ -15,7 +15,11 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("Hello")
+        print("This is a way better message of course!")
+        
+        func hairyStuff() {
+            print("Hairy armpits")
+        }
 
   }
 
